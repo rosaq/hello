@@ -1,0 +1,7 @@
+name: Alicia
+type: theme
+description: A simple responsive theme for Drupal 8
+core: 8.x
+libraries:
+  - alicia/global-styling
+  - alicia/global-js
